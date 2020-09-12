@@ -9,9 +9,8 @@ System.out.println("jjccdddccdd");
 
 System.out.println("samplejava"+"+++++++++++++++++++++");
 
-
+	
 System.out.println("kkkkk");
-
 
 System.out.println("Boopathi");
 
@@ -25,4 +24,13 @@ a();
 	public static void a(){
 		
 	}
+
+
+public void sum()
+{
+	System.out.println("hhh");
 }
+
+}
+
+
