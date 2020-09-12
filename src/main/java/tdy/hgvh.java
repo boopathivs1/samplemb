@@ -7,7 +7,7 @@ public class hgvh {
 System.out.println("jjccdddccdd");
 
 lknlns
-s
+
 	}
 
 }
