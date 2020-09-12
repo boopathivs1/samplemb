@@ -12,7 +12,7 @@ public class App
         
         hiop
 
-        
+     thinking   
         wowsman
 
         
@@ -21,7 +21,7 @@ public class App
         ji
         
         hi
-
+think
         hello
         
         
