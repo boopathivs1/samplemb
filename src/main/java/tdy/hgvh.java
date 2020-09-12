@@ -6,6 +6,8 @@ public class hgvh {
 		// TODO Auto-generated method stub
 System.out.println("jjccdddccdd");
 
+System.out.println("samplejava"+"+++++++++++++++++++++");
+
 
 
 
