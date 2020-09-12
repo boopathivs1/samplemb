@@ -18,6 +18,11 @@ System.out.println("Boopathi");
 
 
 
-	}
+a();
 
+
+	}
+	public static void a(){
+		
+	}
 }
