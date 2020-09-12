@@ -12,7 +12,8 @@ public class App
         
         hiop
 
-     thinking   
+     thinking  
+     g
         wowsman
 
         
@@ -22,6 +23,7 @@ public class App
         
         hi
 think
+j
         hello
         
         h
